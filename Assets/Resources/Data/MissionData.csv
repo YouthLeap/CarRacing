@@ -1,0 +1,9 @@
+Id,Desc,GameDes,Icon,MissionType
+1,Win in N seconds,Time limit,mission_coin_icon,LimitTime
+2,Collect N gold,Collect coins,mission_coin_icon,Coin
+3,Less crash N Times,Less crash,mission_coin_icon,Crash
+4,Use N props,Use props,mission_coin_icon,Item
+5,Hit props limit N times,Hit less than,mission_coin_icon,BeHitByItem
+6,Rank before N,Ranking,mission_coin_icon,Ranking
+7,Use speed up N times,accelerate,mission_coin_icon,SpeedUp
+8,Crash flyers N times,Hit vehicle,mission_coin_icon,CrashCar

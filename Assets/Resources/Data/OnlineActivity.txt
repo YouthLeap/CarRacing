@@ -1,0 +1,1 @@
+{"PostPhoneInfoUrl":"http://app.139wanke.com:9448/act/award.php?act=status","GetDataStateInfoUrl":"http://app.139wanke.com:9448/act/award.php?act=clean","GetUserStateUrl":"http://app.139wanke.com:9448/act/award.php?act=click","PostAwardInfoUrl":"http://app.139wanke.com:9448/act/award.php?act=getAward","PostUserInfoUrl":"http://app.139wanke.com:9448/act/award.php?act=exchange"}

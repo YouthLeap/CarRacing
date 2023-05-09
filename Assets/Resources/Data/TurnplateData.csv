@@ -1,0 +1,9 @@
+AwardId,ItemType,AwardName,AwardCount,SpriteName
+1,FlyBomb,连发导弹,1,prop_flybomb
+2,HuaFei,话费,10,money_1_yuan
+3,HuaFei,话费,20,money_2_yuan
+4,Coin,金币,800,coin_1
+5,SpeedUp,闪电冲刺,1,prop_speedup
+6,Jewel,钻石,5,jewel_1
+7,HuaFei,话费,50,money_5_yuan
+8,ProtectShield,护盾,1,prop_shield

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: eyvqk
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: "\u767D\u8272"
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  - m_Name: "\u6D45\u84DD\u8FB9\u6846"
+    m_Color: {r: 0.21176471, g: 0.7137255, b: 0.7882353, a: 1}
+  - m_Name: "\u84DD\u8272\u8FB9\u6846"
+    m_Color: {r: 0, g: 0.57254905, b: 0.7529412, a: 1}
+  - m_Name: "\u7EFF\u8272\u8FB9\u6846"
+    m_Color: {r: 0, g: 0.46666667, b: 0.09019608, a: 1}
+  - m_Name: "\u6DF1\u84DD\u8FB9\u6846"
+    m_Color: {r: 0, g: 0.33333334, b: 0.45490196, a: 1}
+  - m_Name: "\u6DF1\u9EC4\u8FB9\u6846"
+    m_Color: {r: 0.75686276, g: 0.35686275, b: 0.10980392, a: 1}

@@ -1,0 +1,15 @@
+Id,SceneName,PathModelName,PathId,InitTime,ReduceTime,MinTime
+1,dibiao_caopi4,lu_lu4,4,50,3,25
+2,dibiao_caopi5,lu_lu5,5,60,4,30
+3,dibiao_caopi6,lu_lu6,6,75,5,38
+4,dibiao_caopi7,lu_lu7,7,60,4,30
+5,dibiao_caopi9,lu_lu9,9,70,5,35
+6,dibiao_shamo4,lu_lu4,4,50,3,25
+7,dibiao_shamo5,lu_lu5,5,60,4,30
+8,dibiao_shamo6,lu_lu6,6,75,5,38
+9,dibiao_shamo7,lu_lu7,7,60,3,30
+10,dibiao_shamo9,lu_lu9,9,70,12,35
+11,dibiao_city3,lu_lu3,3,50,3,25
+12,dibiao_city4,lu_lu4,4,50,3,25
+13,dibiao_city6,lu_lu6,6,75,5,38
+14,dibiao_city8,lu_lu8,8,40,2,20

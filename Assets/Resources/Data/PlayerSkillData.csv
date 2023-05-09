@@ -1,0 +1,6 @@
+Id,Title,IconName,Desc,ItemType,TypeName,CostType,CostCount
+1,神秘宝箱,gift_box,随机获得宝箱道具。,RandomBox,coin_icon,Coin,500
+2,开场飞行,start_fly,开场飞行碾压1000米。,StartFly,jewel_icon,Jewel,10
+3,死亡飞行,dead_fly,死亡飞行碾压1000米。,DeadFly,coin_icon,Coin,2000
+4,角色接力,role_relay,死亡随机角色接力。,RoleRelay,jewel_icon,Jewel,20
+5,额外生命,extra_power,额外获得50%生命。,ExtraPower,jewel_icon,Jewel,20

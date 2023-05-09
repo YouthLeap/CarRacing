@@ -1,0 +1,7 @@
+Id,Desc,GameDes,Icon,MissionType
+1,到达终点,到达终点,,Distance
+2,收集N个金币,收集金币,mission_coin_icon,Coin
+3,惊险超车N次,惊险超车,mission_love_icon,Overtake
+4,撞车次数小于N次,撞车次数,mission_monster_icon,CrashCar
+5,N秒通关,通关时间,mission_monster_icon,Timing
+6,撞飞车辆N个,撞飞车辆,mission_monster_icon,CrashFlyCar

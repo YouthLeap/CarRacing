@@ -1,0 +1,73 @@
+{
+ "isOpen":true,
+ "title":"Eggs",
+ "Des":"Only need 2000 gold coins.\nAll kinds of magic props !\nSeize the opportunity\nto quickly turn it!",
+ "IntervalTime":"300|900|1800|3600",
+ "IntervalTime__bk":"300|900|1800|3600",
+ "TotalTime":4,
+ "AwardItem":[
+   {
+     "name":"50 diamond",
+     "rewardId":2,
+     "rewardCount":50,
+     "weight":1000,
+     "isTrueGift":false
+   },
+   {
+     "name":"3500 gold",
+     "rewardId":1,
+     "rewardCount":3500,
+     "weight":1000,
+     "isTrueGift":false
+   },
+   {
+     "name":"88 diamond",
+     "rewardId":2,
+     "rewardCount":88,
+     "weight":500,
+     "isTrueGift":false
+   },
+   {
+     "name":"8800 gold",
+     "rewardId":1,
+     "rewardCount":8800,
+     "weight":500,
+     "isTrueGift":false
+   },
+   {
+     "name":"120 diamond",
+     "rewardId":2,
+     "rewardCount":120,
+     "weight":100,
+     "isTrueGift":false
+   },
+   {
+     "name":"12000 gold",
+     "rewardId":1,
+     "rewardCount":12000,
+     "weight":100,
+     "isTrueGift":false
+   },
+   {
+     "name":"50 ?",
+     "rewardId":16,
+     "rewardCount":1,
+     "weight":0,
+     "isTrueGift":true
+   },
+   {
+     "name":"100 ??",
+     "rewardId":17,
+     "rewardCount":1,
+     "weight":0,
+     "isTrueGift":true
+   }
+   ],
+   
+  "PostPhoneInfoUrl": "",
+  "GetDataStateInfoUrl": "",
+  "GetUserStateUrl": "",
+  "PostAwardInfoUrl": "",
+  "PostUserInfoUrl": ""
+ 
+}

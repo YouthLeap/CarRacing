@@ -1,0 +1,6 @@
+Id,Name,GiftIcon,PayJsonType
+1,Jewel P1,jewel_1,Jewel20Gift
+2,Jewel P2,jewel_2,JewelGift
+3,Double coin,double_coin,MultiCoin
+4,Energy,strength_icon,PowerGift
+5,Gold,coin_2,CoinGift

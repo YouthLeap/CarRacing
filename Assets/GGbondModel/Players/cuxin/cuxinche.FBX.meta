@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: c03c8c27e55e5aa4d9920024f2e6632e
+timeCreated: 1460023130
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: che_Object069
+    100002: che_Object070
+    100004: che_Ywheel_JQ_feiduoC_C002
+    100006: //RootNode
+    100008: houyoulun_wheel
+    100010: houzuolun_wheel
+    100012: qianyoulun_wheel
+    100014: qianzuolun_wheel
+    400000: che_Object069
+    400002: che_Object070
+    400004: che_Ywheel_JQ_feiduoC_C002
+    400006: //RootNode
+    400008: houyoulun_wheel
+    400010: houzuolun_wheel
+    400012: qianyoulun_wheel
+    400014: qianzuolun_wheel
+    2300000: che_Object069
+    2300002: che_Object070
+    2300004: che_Ywheel_JQ_feiduoC_C002
+    2300006: //RootNode
+    2300008: houyoulun_wheel
+    2300010: houzuolun_wheel
+    2300012: qianyoulun_wheel
+    2300014: qianzuolun_wheel
+    3300000: che_Object069
+    3300002: che_Object070
+    3300004: che_Ywheel_JQ_feiduoC_C002
+    3300006: //RootNode
+    3300008: houyoulun_wheel
+    3300010: houzuolun_wheel
+    3300012: qianyoulun_wheel
+    3300014: qianzuolun_wheel
+    4300000: che_Ywheel_JQ_feiduoC_C002
+    4300002: che_Object069
+    4300004: che_Object070
+    4300006: cuxinche
+    4300008: qianyoulun_wheel
+    4300010: qianzuolun_wheel
+    4300012: houzuolun_wheel
+    4300014: houyoulun_wheel
+    4300016: cuxincheshen
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 18
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

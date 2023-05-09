@@ -1,0 +1,4 @@
+Id,Count,ItemType,TypeName,CostCount
+1,1,Coin,coin_icon,2000
+2,10,Coin,coin_icon,15000
+3,20,Jewel,jewel_icon,150

@@ -1,0 +1,4 @@
+Id,ItemType,TargetItemType,TargetName,TargetIcon,MaterialName,MaterialIcon,MaterialCount
+1,Apple,SpeedUp,Lightning,prop_speedup,苹果,apple,30
+2,Pear,FlyBomb,Missiles,prop_flybomb,梨子,pear,30
+3,Banana,ProtectShield,Shield,prop_shield,香蕉,banana,30

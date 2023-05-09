@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d69ba3589cfbbff41947924d7d529382
+timeCreated: 1502807236
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candy Script
+  fontNames:
+  - Candy Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

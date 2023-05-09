@@ -1,0 +1,16 @@
+RewardId,Name,ItemType,IconName
+1,Gold,Coin,coin_icon
+2,Diamond,Jewel,jewel_icon
+3,Energy,Strength,strength_icon
+4,x2 coin,DoubleCoin,double_coin
+5,Missiles,FlyBomb,prop_flybomb
+6,Shield,ProtectShield,prop_shield
+7,Lightning,SpeedUp,prop_speedup
+10,Apple,Apple,apple
+11,Pear,Pear,pear
+12,Banana,Banana,banana
+13,Grape,Grape,grape
+14,Ginseng,Ginseng,ginseng
+15,Ganoderma,Ganoderma,ganoderma
+16,50 Ganoderma,Ganoderma,jd50
+17,100 Ganoderma,Ganoderma,jd100

@@ -1,0 +1,23 @@
+ID,PayCode,Desc,Cost,PayType,BuyBtName,GetBtName,Note1
+1,1,Novice packs,2,NewPlayerGift,立即购买,立即领取, Package1  com.xqueen.happysupermancarracing.package1  2 usd to buy 100 diamond and 1 shield and 1 three missile  
+2,2,Double gold coins,5,MultiCoin,立即购买,立即领取, 5 usd to buy double gold coin package  
+3,3,3 star,1,RewardsGift3Stars,立即购买,立即领取,1 usd to buy 3 three missile and 3 shield and 3 fast  
+4,4,4 star,3,RewardsGift4Stars,立即购买,立即领取, 3 usd to buy 20k gold and 3 three missile and 3 shiled  
+5,5,Energy,4,PowerGift,立即购买,立即领取, 4 usd to buy 20 energy  
+6,6,Gold coin pack,2,CoinGift,立即购买,立即领取, 2 usd to buy 20k gold  
+7,7,A small amount of diamonds,1,Jewel20Gift,立即购买,立即领取, 1 usd to buy 20 diamond  
+8,8,Diamond packs,4,JewelGift,立即购买,立即领取, 4 usd to buy 180 diamond  
+9,9,5 star,9,RewardsGift5Stars,立即购买,立即领取, 9 usd to buy 350 diamond and 5 three missile and 5 fast  
+10,10,Limited Time Offer,8,DiscountGift,立即购买,立即领取, 8 usd to buy 50k gold and 3 three missile and 3 shield and 3 fast  
+11,11,Role packs,11,CharactersGift,立即购买,立即领取, 11 usd to buy all character  
+12,12,Upgrade full character,7,OneKey2FullLV,立即购买,立即领取, 7 usd to upgrade full character  
+13,13,Kill a blow full force,2,InnerGameGift,立即购买,立即领取, 2 usd to buy 5 fast and 3 shield and 3 three missile  
+14,14,resurrection,2,Reborn,立即购买,立即复活, 2 usd to buy resurrection  
+15,15,House doctor asylum,0.25,SheildGift,立即购买,立即领取, 0.25 usd to buy 2 shield
+16,16,Honorable members,5,MonthCardGift,立即购买,立即领取,xxxxxxxxxxxxxxxxxxxxx
+17,7,Play packs（少量钻石计费点）,2,ChangWanGift,立即购买,立即领取,xxxxxxxxxxxxxxxxxxxxx
+18,0,store,0,Shop,立即购买,立即领取,xxxxxxxxxxxxxxxxxxxxx
+19,0,Free light of the Ze Ze,0,FreeInnerGameGift,必杀一击,必杀一击,xxxxxxxxxxxxxxxxxxxxx
+20,0,Free resurrection,0,FreeReborn,免费复活,免费复活,xxxxxxxxxxxxxxxxxxxxx
+21,0,Altman summons,0,AoteZhaohuan,召唤,召唤,xxxxxxxxxxxxxxxxxxxxx
+1000,1000,Remove Ads,1,RemoveAds,立即购买,立即领取, 1 usd to remove ads

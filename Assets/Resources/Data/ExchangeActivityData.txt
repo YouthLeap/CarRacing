@@ -1,0 +1,44 @@
+{
+  "DataTime": "Collection of ingot",
+  "Item1": {
+    "IsTrueGift":true,
+    "AwardId": 1,
+    "Name": "Happy baby shells",
+    "Price": 350,
+    "Rest": 20,
+    "Award": "",
+    "IsGet":false
+  },
+  "Item2": {
+   "IsTrueGift":true,
+    "AwardId": 2,
+    "Name": "Happy baby burst pill doll",
+    "Price": 250,
+    "Rest": 67,
+    "Award": "",
+    "IsGet":false
+  },
+  "Item3": {
+   "IsTrueGift":true,
+    "AwardId": 3,
+    "Name": "Happy baby shaking his head doll",
+    "Price": 200,
+    "Rest": 130,
+    "Award": "",
+    "IsGet":false
+  },
+  "Item4": {
+   "IsTrueGift":false,
+    "AwardId": 4,
+    "Name": "Colorful packs (100 diamonds)",
+    "Price": 35,
+    "Rest": 9999,
+    "Award": "2*100",
+    "IsGet":false
+  },
+  "PostPhoneInfoUrl": "",
+  "GetDataStateInfoUrl": "",
+  "GetUserStateUrl": "",
+  "PostAwardInfoUrl": "",
+  "PostUserInfoUrl": ""
+}

@@ -1,0 +1,37 @@
+Id,TitleName,IsCumulative,Desc,备注,TargetNum,RewardId,RewardCount,Level,IconName,CheckType
+1,,TRUE,Get gold coins,,500,1|2,500|3,1,copper_medal,1
+2,,TRUE,Get gold coins,,5000,1|2,1000|10,2,silver_medal,1
+3,,TRUE,Get gold coins,,50000,1|2,1500|20,3,gold_medal,1
+4,,TRUE,Get diamonds,,10,1|2,300|1,1,copper_medal,2
+5,,TRUE,Get diamonds,,50,1|2,500|2,2,silver_medal,2
+6,,TRUE,Get diamonds,,100,1|2,800|5,3,gold_medal,2
+7,,TRUE,Use props,,10,1|2,400|1,1,copper_medal,3
+8,,TRUE,Use props,,20,1|2,800|2,2,silver_medal,3
+9,,TRUE,Use props,,100,1|2,1200|5,3,gold_medal,3
+10,,FALSE,Collect roles,,3,1|2,300|1,1,copper_medal,4
+11,,FALSE,Collect roles,,4,1|2,500|2,2,silver_medal,4
+12,,FALSE,Collect roles,,5,1|2,700|5,3,gold_medal,4
+13,,FALSE,Role level,,3,1|2,350|1,1,copper_medal,5
+14,,FALSE,Role level,,4,1|2,550|2,2,silver_medal,5
+15,,FALSE,Role level,,5,1|2,850|5,3,gold_medal,5
+16,,FALSE,Collect stars,,10,1|2,500|1,1,copper_medal,6
+17,,FALSE,Collect stars,,20,1|2,750|3,2,silver_medal,6
+18,,FALSE,Collect stars,,50,1|2,1000|5,3,gold_medal,6
+19,,FALSE,Level progress,,10,1|2,800|2,1,copper_medal,7
+20,,FALSE,Level progress,,25,1|2,1500|5,2,silver_medal,7
+21,,FALSE,Level progress,,40,1|2,2000|15,3,gold_medal,7
+22,,TRUE,Match victory,,5,1|2,500|1,1,copper_medal,8
+23,,TRUE,Match victory,,50,1|2,800|2,2,silver_medal,8
+24,,TRUE,Match victory,,100,1|2,1500|5,3,gold_medal,8
+25,,TRUE,Knockout victory,,10,1|2,600|1,1,copper_medal,9
+26,,TRUE,Knockout victory,,50,1|2,1200|2,2,silver_medal,9
+27,,TRUE,Knockout victory,,100,1|2,2000|5,3,gold_medal,9
+28,,TRUE,Racing victory,,10,1|2,400|1,1,copper_medal,10
+29,,TRUE,Racing victory,,50,1|2,800|2,2,silver_medal,10
+30,,TRUE,Racing victory,,100,1|2,1000|5,3,gold_medal,10
+31,,TRUE,Time limit victory,,10,1|2,380|1,1,copper_medal,11
+32,,TRUE,Time limit victory,,50,1|2,880|2,2,silver_medal,11
+33,,TRUE,Time limit victory,,100,1|2,1880|5,3,gold_medal,11
+34,,TRUE,Match victory,,10,1|2,500|2,1,copper_medal,12
+35,,TRUE,Match victory,,50,1|2,1000|5,2,silver_medal,12
+36,,TRUE,Match victory,,100,1|2,1500|10,3,gold_medal,12

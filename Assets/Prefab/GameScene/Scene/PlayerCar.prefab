@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &107932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 405772}
+  - 114: {fileID: 11473034}
+  - 114: {fileID: 11486386}
+  - 114: {fileID: 11407446}
+  - 114: {fileID: 11424330}
+  - 54: {fileID: 5494202}
+  - 65: {fileID: 6530288}
+  m_Layer: 20
+  m_Name: PlayerCar
+  m_TagString: ItemCar
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &123102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 463296}
+  - 114: {fileID: 11425538}
+  - 65: {fileID: 6518756}
+  - 54: {fileID: 5409436}
+  m_Layer: 20
+  m_Name: MagnetCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &405772
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 463296}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &463296
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123102}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 405772}
+  m_RootOrder: 0
+--- !u!54 &5409436
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123102}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!54 &5494202
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 64
+  m_CollisionDetection: 0
+--- !u!65 &6518756
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123102}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 20, y: 5, z: 20}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &6530288
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.5, y: 3, z: 5.5}
+  m_Center: {x: 0, y: 1.5, z: -1.79999995}
+--- !u!114 &11407446
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3c66c0b83f2a4046a19e14af50dae0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPlayer: 1
+  carMove: {fileID: 0}
+  carParticleControl: {fileID: 0}
+  magnetCheckGO: {fileID: 0}
+  isSpeedUp: 0
+  isSpeedAdd: 0
+  isMagnet: 0
+  isShield: 0
+  isFireBall: 0
+  isGlove: 0
+  isMushroom: 0
+  colorA: 1
+  carTrans: {fileID: 0}
+  shapeShiftTrans: {fileID: 0}
+  isShapeShift: 0
+  shapeShftTime: 0
+  curHavePropId: 0
+--- !u!114 &11424330
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a811f0a24e97f5a408e7d0af428422f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  traceList: []
+  sparkList: []
+  isShowRunEffect: 0
+--- !u!114 &11425538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 123102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f767e82924c1f243964f48695e6e04e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magnetType: 0
+--- !u!114 &11473034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7539db0fedd4c2f41b3c1872fbba298e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carMove: {fileID: 11486386}
+  propCon: {fileID: 0}
+  carParticleCon: {fileID: 0}
+  testProp: 15
+--- !u!114 &11486386
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 583657cf4cf021f4d83206e27357c82a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carId: 0
+  isPlayer: 0
+  isDebug: 1
+  applyStartPos: 0
+  carTransform: {fileID: 0}
+  startPosLen: 0
+  xOffset: 0
+  carType: 0
+  explodeSpeed: 10
+  propCon: {fileID: 0}
+  carParticleCon: {fileID: 0}
+  animManager: {fileID: 0}
+  mechaAnimManager: {fileID: 0}
+  speed: 0
+  acceleration: .200000003
+  maxSpeed: 50
+  origMaxSpeed: 30
+  isFinish: 0
+  runningTime: 0
+  moveLen: 0
+  isTurnLeft: 0
+  isTurnRight: 0
+  yMaxRotate: 0
+  isRunning: 1
+  circleCount: 1
+  minXOffset: -18
+  maxXOffset: 18
+  curCenterMoveDir: {x: 0, y: 0, z: 0}
+  carMoveDir: {x: 0, y: 0, z: 1}
+  isChangeXOffset: 0
+  isCarExplode: 0
+  isSliping: 0
+  isLighting: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 107932}
+  m_IsPrefabParent: 1

@@ -1,0 +1,5 @@
+﻿Id,Title,Desc,IconName,SceneModuleType
+1,Lucky,Challenge level，Luck with you! Gold coins waiting for you!,luckynumbers_icon,LuckyNumbers
+2,Ingot,Collecting enough gold ingot，Free get cute creatures!,collectionyuanbao_icon,ExchangeActivity
+3,Step up,Break the limit，You can get a lot of rewards!,gameplaying_icon,GamePlayingActivity
+4,Clearance,New Year's red envelope for you，After the clearance of large red envelopes!,redpaper_Icon,ClearanceRedPaper

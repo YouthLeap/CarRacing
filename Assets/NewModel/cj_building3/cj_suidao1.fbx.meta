@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 51e9bb2962cbbd74aac1acc8ffe1cad4
+timeCreated: 1458888456
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: changjing2:ground_b_04
+    100002: changjing2:ground_b_05
+    100004: //RootNode
+    100006: dongkou
+    100008: suidao1
+    100010: suidao2
+    100012: polySurface2
+    100014: suidao_wai
+    100016: suidao
+    100018: suidao_nei
+    400000: changjing2:ground_b_04
+    400002: changjing2:ground_b_05
+    400004: //RootNode
+    400006: dongkou
+    400008: suidao1
+    400010: suidao2
+    400012: polySurface2
+    400014: suidao_wai
+    400016: suidao
+    400018: suidao_nei
+    2300000: changjing2:ground_b_04
+    2300002: changjing2:ground_b_05
+    2300004: dongkou
+    2300006: suidao1
+    2300008: suidao2
+    2300010: polySurface2
+    2300012: suidao_wai
+    2300014: suidao_nei
+    3300000: changjing2:ground_b_04
+    3300002: changjing2:ground_b_05
+    3300004: dongkou
+    3300006: suidao1
+    3300008: suidao2
+    3300010: polySurface2
+    3300012: suidao_wai
+    3300014: suidao_nei
+    4300000: changjing2:ground_b_04
+    4300002: changjing2:ground_b_05
+    4300004: dongkou
+    4300006: suidao2
+    4300008: suidao1
+    4300010: suidao_wai
+    4300012: polySurface2
+    4300014: suidao_nei
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

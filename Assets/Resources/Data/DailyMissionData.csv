@@ -1,0 +1,7 @@
+id,missionName,missionDes,missionType,missonTarget,missionReward,missionIcon
+1,Use props,Use props times,UseProp,10,1*2500,coin_2
+2,Use props,Use props times,UseProp,30,2*20,jewel_2
+3,Complete the break mode,Complete break mode,LevelModel,1,1*2000,coin_2
+4,Complete the break mode,Complete break mode,LevelModel,5,2*15,jewel_2
+5,Complete the upright mode,Complete upright mode,ClassModel,1,1*2500,coin_2
+6,Complete the upright mode,Complete upright mode,ClassModel,5,2*15,jewel_2
